@@ -1,17 +1,10 @@
-# Welcome to MkDocs
+# Random Musings
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Just carving out a place to put some thoughts to metaphorical paper.
 
-## Commands
+* Names will be changed, but situations will be preserved as much as possible while retaining a relative amount of anonymity.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
 
-## Project layout
+## Tags
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+[TAGS]
