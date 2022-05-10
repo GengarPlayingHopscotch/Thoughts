@@ -2,7 +2,7 @@
 name = "thoughts"
 version = "0.1.0"
 description = ""
-authors = ["Gengar Playing Hopscotch <05234314+GengarPlayingHopscotch@users.noreply.github.com>"]
+authors = ["GengarPlayingHopscotch <105234314+GengarPlayingHopscotch@users.noreply.github.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.10"
